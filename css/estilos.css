@@ -1,12 +1,32 @@
-     h2 {
-         color: dimgray;
-     }
-     
-     h1 {
-         font-weight: bold;
-         color: brown
-     }
-     
-     h3 {
-         color: darkgrey
-     }
+    body {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    .top {
+        text-align: center;
+        background-color: #f6ed76;
+    }
+    
+    .content {
+        text-align: center;
+        background-color: #1208e585;
+        padding: 1em;
+    }
+    
+    .fa-check {
+        font-size: 0.75em;
+    }
+    
+    h2 {
+        color: dimgray;
+    }
+    
+    h1 {
+        font-weight: bold;
+        color: brown;
+        margin-bottom: -20px;
+    }
+    
+    h3 {
+        color: white
+    }
